@@ -1,1 +1,1 @@
-ehere am i command 
+writing scripts for bash commands
